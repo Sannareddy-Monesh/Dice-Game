@@ -6,7 +6,7 @@ Math.random() function is used internally to determine the random value on dices
 
 # for Example
 
-let outcome of the Dice1 = 4 // Random Value
+let outcome of the Dice1 = 4 // Random Value                                                                                                                             
 let outcome of the Dice2 = 2 // Random Value
 then Displays player1 Wins.
 
