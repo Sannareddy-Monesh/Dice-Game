@@ -22,6 +22,10 @@ h1 {
   
 }
 
+h2 {
+  font-family: 'Lobster', cursive;
+}
+
 .player1{
   font-size: 2rem;
   color: white;
